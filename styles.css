@@ -1380,7 +1380,6 @@ progress {
 
   .col-lg-4 {
     flex: 0 0 auto;
-    width: 33.33333333%;
   }
 
   .col-lg-5 {
@@ -11375,7 +11374,6 @@ p {
     padding-top: 1.5rem;
     padding-bottom: 1.5rem;
     border: none;
-    background-color: transparent;
     transition: padding-top 0.3s ease-in-out, padding-bottom 0.3s ease-in-out;
   }
   #mainNav .navbar-brand {
